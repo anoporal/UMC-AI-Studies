@@ -3,7 +3,7 @@ Repositório criado com o fim de registrar o desenvolvimento técnico na matéri
 
 ---
 ## Atividade 1: Exercícios Python *[Lista de 50 exercícios | Python básico]*
-### Arquivo: `Exercícios_Python_Breno_Maciel_de_Assis_6ºA_Matutino.ipynb`
+### Arquivo: [`Exercícios_Python_Breno_Maciel_de_Assis_6ºA_Matutino.ipynb`](https://github.com/anoporal/UMC-AI-Studies/blob/main/Exerc%C3%ADcios_Python_Breno_Maciel_de_Assis_6%C2%BAA_Matutino.ipynb)
 Para todos estarmos no mesmo nível de conhecimento técnico, foi passada uma lista para que pudéssemos treinar e evoluir.
 
 No arquivo de exercícios há:
@@ -13,7 +13,7 @@ No arquivo de exercícios há:
 - **Justificativas** (tanto comentadas quanto em blocos de texto)
 ---
 ## Atividade 2: Data Science *[Lista de 80 exercícios | Desenvolvendo com bibliotecas aprofundadas]*
-### Arquivo: `Exercícios_Python_Breno_Maciel_de_Assis_6ºA_Matutino.ipynb`
+### Arquivo: [`Exercícios_Python_Breno_Maciel_de_Assis_6ºA_Matutino.ipynb`](https://github.com/anoporal/UMC-AI-Studies/blob/main/Exerc%C3%ADcios_Data_Science_Breno_Maciel_de_Assis_6%C2%BAA_Matutino.ipynb)
 Agora, aumentando um pouco mais o nível, foi passada uma lista para aprimorarmos nossos conhecimentos com utilidades de 4 bibliotecas.
 
 No arquivo de exercícios há:
@@ -25,8 +25,10 @@ No arquivo de exercícios há:
 - **Justificativas** (tanto comentadas quanto em blocos de texto)
 ---
 ## Atividade 3: Reavaliação do dataset Iris com SVM (usando Kaggle Notebook) *[Machine Learning]*
-### Arquivo: `Reavaliação_Dataset_Iris_Breno_Maciel_de_Assis_6ºA_Matutino.ipynb`
-Seguindo para uma vertente mais prática do *Machine Learning*, foi passada a atividade para realizarmos a *Análise Exploratória de Dados (AED)* no famoso dataset **Iris**, desenvolvendo um modelo de classificação usando exclusivamente *Support Vector Machine* (**SVM**). (Cheque o link do [dataset Iris](https://www.kaggle.com/datasets/menegidio/iris-species)!)
+### Arquivo: [`Reavaliação_Dataset_Iris_Breno_Maciel_de_Assis_6ºA_Matutino.ipynb`](https://github.com/anoporal/UMC-AI-Studies/blob/main/Reavalia%C3%A7%C3%A3o_Dataset_Iris_Breno_Maciel_de_Assis_6%C2%BAA_Matutino.ipynb)
+Seguindo para uma vertente mais prática do *Machine Learning*, foi passada a atividade para realizarmos a *Análise Exploratória de Dados (AED)* no famoso dataset **Iris**, desenvolvendo um modelo de classificação usando exclusivamente *Support Vector Machine* (**SVM**).
+
+(Cheque o link do [dataset Iris](https://www.kaggle.com/datasets/menegidio/iris-species)!)
 
 No notebook há:
 - **Avaliação de desempenho**, usando métricas clássicas
@@ -36,8 +38,10 @@ No notebook há:
 - **Representação gráfica** e **explicação metódica** de conceitos de *Machine Learning*
 ---
 ## Atividade 4: Análise e implementação de SVM do dataset **Breast Cancer Wisconsin** (usando Kaggle Notebook) *[Machine Learning]*
-### Arquivo: `Breast_Cancer_Wisconsin_Dataset_Breno_Maciel_6ºA_Matutino.ipynb`
+### Arquivo: [`Breast_Cancer_Wisconsin_Dataset_Breno_Maciel_6ºA_Matutino.ipynb`](https://github.com/anoporal/UMC-AI-Studies/blob/main/Breast_Cancer_Wisconsin_Dataset_Breno_Maciel_6%C2%BAA_Matutino.ipynb)
 O objetivo da atividade foi utilizar a **modelagem com SVM**, com o clássico conjunto de dados de **câncer de mama de Wisconsin**, para classificar os tumores entre **benignos (B)** ou **malignos (M)**, fazendo a exploração e pré-processamento dos dados fornecidos pelo dataset.
+
+(Cheque o link do [dataset Breast Cancer Wisconsin](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)!)
 
 No notebook há:
 - **Carregamento e limpeza** dos dados
@@ -47,7 +51,7 @@ No notebook há:
 - **Treinamento de modelos SVM** com diferentes funções de kernel (RBF e linear)
 ---
 ## Atividade 5: SUMMIT (Salvando as Eleições Norte-Americanas de 1936) *[Machine Learning]*
-### Arquivo: `SUMMIT_Breno_Maciel_6ºA_Matutino.ipynb`
+### Arquivo: [`SUMMIT_Breno_Maciel_6ºA_Matutino.ipynb`](https://github.com/anoporal/UMC-AI-Studies/blob/main/SUMMIT_Breno_Maciel_6%C2%BAA_Matutino.ipynb)
 Um dos maiores erros estatísticos conhecidos é a falha da análise de dados da eleição de 1936 dos Estados Unidos, que foi feita pela revista da época **The Literary Digest**. Tal atividade destrinchou o processo o problema em etapas de resolução, e foi aplicada para o **SUMMIT da UMC**.
 
 No notebook há:
@@ -56,5 +60,5 @@ No notebook há:
 * **Documentação clara**, definida em etapas
 * **Gráficos**, plotados com *matplotlib*
 * **Cálculos** das proporções, **pós-estratificação** e **análises** das eleições relevantes
-* Aplicação do *Support Vector Machine* (**SVM)**
+* Aplicação do *Support Vector Machine* (**SVM**)
 ---
