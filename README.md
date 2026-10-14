@@ -13,7 +13,7 @@ No arquivo de exercícios há:
 - **Justificativas** (tanto comentadas quanto em blocos de texto)
 ---
 ## Atividade 2: Data Science *[Lista de 80 exercícios | Desenvolvendo com bibliotecas aprofundadas]*
-### Arquivo: [`Exercícios_Python_Breno_Maciel_de_Assis_6ºA_Matutino.ipynb`](https://github.com/anoporal/UMC-AI-Studies/blob/main/Exerc%C3%ADcios_Data_Science_Breno_Maciel_de_Assis_6%C2%BAA_Matutino.ipynb)
+### Arquivo: [`Exercícios_Data_Science_Breno_Maciel_de_Assis_6ºA_Matutino.ipynb`](https://github.com/anoporal/UMC-AI-Studies/blob/main/Exerc%C3%ADcios_Data_Science_Breno_Maciel_de_Assis_6%C2%BAA_Matutino.ipynb)
 Agora, aumentando um pouco mais o nível, foi passada uma lista para aprimorarmos nossos conhecimentos com utilidades de 4 bibliotecas.
 
 No arquivo de exercícios há:
