@@ -62,3 +62,32 @@ No notebook há:
 * **Cálculos** das proporções, **pós-estratificação** e **análises** das eleições relevantes
 * Aplicação do *Support Vector Machine* (**SVM**)
 ---
+## Atividade 6: Estudo de caso (Preço do Vinho vs. Qualidade Cega - você paga pelo gosto?
+### Arquivo: [`Estudo_de_Caso_Vinho_Breno_Maciel_de_Assis_6ºA_Matutino.ipynb`](https://github.com/anoporal/UMC-AI-Studies/blob/main/Estudo_de_Caso_Vinho_Breno_Maciel_de_Assis_6%C2%BAA_Matutino.ipynb)
+Um dataset foi escolhido para realizar um estudo de caso. A questão do estudo do dataset vem da pergunta "Será que vinho mais caro é realmente mais gostoso quando a pessoa prova sem ver o preço (prova cega)? Ou nós pagamos pela fama do rótulo?"
+
+(Cheque o link do dataset [Wine Price vs. Blind Quality—Do You Pay for Taste?](https://www.kaggle.com/datasets/sergionefedov/wine-price-vs-blind-qualitydo-you-pay-for-taste)!)
+
+No notebook há:
+* **Importação, estruturação e limpeza dos dados (tabela principal + dicionário de dados)**
+* Aplicação do modelo **Scikit-Learn**
+* **Documentação clara**, definida em etapas
+* **Gráficos**, plotados com *matplotlib*
+* **Cálculos** das proporções, **pós-estratificação** e **análises** das eleições relevantes
+* Aplicação do *Support Vector Machine* (**SVM**)
+---
+## Atividade 7: Conjunto de 6 datasets, treinados e testados com 7 modelos de I.A *[Machine Learning]*
+### Arquivo: [`Datasets_SVM_DecisionTree_RandomForest_Boosting.ipynb`](https://github.com/anoporal/UMC-AI-Studies/blob/main/Datasets_SVM_Decision_Tree_Random_Forest_Boosting_Breno_Maciel_6%C2%BAA_Matutino.ipynb)
+O objetivo da atividade foi juntar os **6 datasets**, apresentados pelo professor em aula até então, em apenas um notebook, sendo eles:
+- [**Breast Cancer Wisconsin Dataset**](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data) (Atividade 4)
+- **1936 Elections** (Atividade 5, feita com dados fornecidos pelo professor Fabiano)
+- [**Wine Price vs. Blind Quality - Do You Pay For Taste?**](https://www.kaggle.com/datasets/sergionefedov/wine-price-vs-blind-qualitydo-you-pay-for-taste) (Atividade 6)
+- [**Heart Disease Dataset**](https://www.kaggle.com/datasets/mfarhaannazirkhan/heart-dataset) (Dataset apresentado na M1 da turma A do 6ºA)
+- [**Student Stress Factors: A Comprehensive Analysis**](https://www.kaggle.com/datasets/rxnach/student-stress-factors-a-comprehensive-analysis) (Dataset apresentado na M1 da turma B do 6ºA)
+- [**Fishmorph Dataset**](https://www.kaggle.com/datasets/menegidio/fishmorph-dataset) (Novo dataset apresentado)
+
+e assim, aplicar **7 modelos de I.A**, sendo eles:
+- **SVM (Linear, RBF, Polinomial, Sigmoide)**
+- **Árvore de Decisão**
+- **Floresta Aleatória**
+- **Gradient Boosting**
