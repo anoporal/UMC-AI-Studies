@@ -24,7 +24,7 @@ No arquivo de exercícios há:
 - **Respostas** de acordo com as questões
 - **Justificativas** (tanto comentadas quanto em blocos de texto)
 ---
-## Atividade 3: Reavaliação do dataset Iris com SVM (usando Kaggle Notebook) *[Machine Learning]*
+## Atividade 3: Reavaliação do dataset Iris com SVM (usando Kaggle Notebook)
 ### Arquivo: [`Reavaliação_Dataset_Iris_Breno_Maciel_de_Assis_6ºA_Matutino.ipynb`](https://github.com/anoporal/UMC-AI-Studies/blob/main/Reavalia%C3%A7%C3%A3o_Dataset_Iris_Breno_Maciel_de_Assis_6%C2%BAA_Matutino.ipynb)
 Seguindo para uma vertente mais prática do *Machine Learning*, foi passada a atividade para realizarmos a *Análise Exploratória de Dados (AED)* no famoso dataset **Iris**, desenvolvendo um modelo de classificação usando exclusivamente *Support Vector Machine* (**SVM**).
 
@@ -37,7 +37,7 @@ No notebook há:
 - **Documentação** de todo o *workflow* de *Machine Learning*
 - **Representação gráfica** e **explicação metódica** de conceitos de *Machine Learning*
 ---
-## Atividade 4: Análise e implementação de SVM do dataset **Breast Cancer Wisconsin** (usando Kaggle Notebook) *[Machine Learning]*
+## Atividade 4: Análise e implementação de SVM do dataset **Breast Cancer Wisconsin** (usando Kaggle Notebook)
 ### Arquivo: [`Breast_Cancer_Wisconsin_Dataset_Breno_Maciel_6ºA_Matutino.ipynb`](https://github.com/anoporal/UMC-AI-Studies/blob/main/Breast_Cancer_Wisconsin_Dataset_Breno_Maciel_6%C2%BAA_Matutino.ipynb)
 O objetivo da atividade foi utilizar a **modelagem com SVM**, com o clássico conjunto de dados de **câncer de mama de Wisconsin**, para classificar os tumores entre **benignos (B)** ou **malignos (M)**, fazendo a exploração e pré-processamento dos dados fornecidos pelo dataset.
 
@@ -50,17 +50,17 @@ No notebook há:
 - **Modelagem com SVM**, tendo a separação dos dados de treino e teste
 - **Treinamento de modelos SVM** com diferentes funções de kernel (RBF e linear)
 ---
-## Atividade 5: SUMMIT (Salvando as Eleições Norte-Americanas de 1936) *[Machine Learning]*
+## Atividade 5: SUMMIT (Salvando as Eleições Norte-Americanas de 1936)
 ### Arquivo: [`SUMMIT_Breno_Maciel_6ºA_Matutino.ipynb`](https://github.com/anoporal/UMC-AI-Studies/blob/main/SUMMIT_Breno_Maciel_6%C2%BAA_Matutino.ipynb)
 Um dos maiores erros estatísticos conhecidos é a falha da análise de dados da eleição de 1936 dos Estados Unidos, que foi feita pela revista da época **The Literary Digest**. Tal atividade destrinchou o processo o problema em etapas de resolução, e foi aplicada para o **SUMMIT da UMC**.
 
 No notebook há:
-* **Importação, estruturação e limpeza dos dados**
-* Aplicação do modelo **Scikit-Learn**
-* **Documentação clara**, definida em etapas
-* **Gráficos**, plotados com *matplotlib*
-* **Cálculos** das proporções, **pós-estratificação** e **análises** das eleições relevantes
-* Aplicação do *Support Vector Machine* (**SVM**)
+- **Importação, estruturação e limpeza dos dados**
+- Aplicação do modelo **Scikit-Learn**
+- **Documentação clara**, definida em etapas
+- **Gráficos**, plotados com *matplotlib*
+- **Cálculos** das proporções, **pós-estratificação** e **análises** das eleições relevantes
+- Aplicação do *Support Vector Machine* (**SVM**)
 ---
 ## Atividade 6: Estudo de caso (Preço do Vinho vs. Qualidade Cega - você paga pelo gosto?
 ### Arquivo: [`Estudo_de_Caso_Vinho_Breno_Maciel_de_Assis_6ºA_Matutino.ipynb`](https://github.com/anoporal/UMC-AI-Studies/blob/main/Estudo_de_Caso_Vinho_Breno_Maciel_de_Assis_6%C2%BAA_Matutino.ipynb)
@@ -69,14 +69,14 @@ Um dataset foi escolhido para realizar um estudo de caso. A questão do estudo d
 (Cheque o link do dataset [Wine Price vs. Blind Quality—Do You Pay for Taste?](https://www.kaggle.com/datasets/sergionefedov/wine-price-vs-blind-qualitydo-you-pay-for-taste)!)
 
 No notebook há:
-* **Importação, estruturação e limpeza dos dados (tabela principal + dicionário de dados)**
-* Aplicação do modelo **Scikit-Learn**
-* **Documentação clara**, definida em etapas
-* **Gráficos**, plotados com *matplotlib*
-* **Cálculos** das proporções, **pós-estratificação** e **análises** das eleições relevantes
-* Aplicação do *Support Vector Machine* (**SVM**)
+- **Importação, estruturação e limpeza dos dados (tabela principal + dicionário de dados)**
+- Aplicação do modelo **Scikit-Learn**
+- **Documentação clara**, definida em etapas
+- **Gráficos**, plotados com *matplotlib*
+- **Cálculos** das proporções, **pós-estratificação** e **análises** das eleições relevantes
+- Aplicação do *Support Vector Machine* (**SVM**)
 ---
-## Atividade 7: Conjunto de 6 datasets, treinados e testados com 7 modelos de I.A *[Machine Learning]*
+## Atividade 7: Conjunto de 6 datasets, treinados e testados com 7 modelos de I.A
 ### Arquivo: [`Datasets_SVM_DecisionTree_RandomForest_Boosting.ipynb`](https://github.com/anoporal/UMC-AI-Studies/blob/main/Datasets_SVM_Decision_Tree_Random_Forest_Boosting_Breno_Maciel_6%C2%BAA_Matutino.ipynb)
 O objetivo da atividade foi juntar os **6 datasets**, apresentados pelo professor em aula até então, em apenas um notebook, sendo eles:
 - [**Breast Cancer Wisconsin Dataset**](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data) (Atividade 4)
@@ -91,3 +91,14 @@ e assim, aplicar **7 modelos de I.A**, sendo eles:
 - **Árvore de Decisão**
 - **Floresta Aleatória**
 - **Gradient Boosting**
+---
+## Atividade 8: Comparação de algoritmos da biblioteca AutoML (FLAML vs. Auto-Sklearn), no dataset Iris
+### Arquivo: [`FLAML_vs_AutoSklearn_Breno_Maciel_6ºA_Matutino.ipynb`](https://github.com/anoporal/UMC-AI-Studies/blob/main/FLAML_vs_AutoSklearn_Breno_Maciel_6%C2%BAA_Matutino.ipynb)
+A finalidade da atividade foi praticar a utilização de ferramentas de Automated Machine Learning (AutoML) comparando o desempenho, o tempo de execução e a complexidade de busca de modelos entre o FLAML e o auto-sklearn utilizando o conjunto de dados clássico Iris.
+
+No notebook há:
+- **Criação** de um ambiente virtual com Python 3.8 para compilação dos pacotes do Auto-Sklearn
+- **Carregamento** do dataset Iris com Auto-Sklearn e FLAML, separadamente
+- **Plotagem** de matrizes de confusão, para comparação dos resultados
+- **Conclusão**, comparando as acurácias, custos computacionais e esclarecendo a interpretabilidade dos resultados
+---
